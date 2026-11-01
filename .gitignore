@@ -1,0 +1,12 @@
+.env
+.venv/
+.venv-*/
+venv/
+__pycache__/
+*.pyc
+database/chats_data/
+database/vector_store/
+database/learning_data/
+.vscode/
+.idea/
+.DS_Store
